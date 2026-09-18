@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.db
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+.vscode/
+.idea/
