@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-5.15-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
-**ProcureFlow** is an end-to-end, intermediate-to-advanced Business Analytics and Management Consulting project designed to showcase SQL mastery, data modeling, data quality engineering, root cause analysis, interactive BI dashboarding, and executive business recommendations tailored for an **EY Associate Consultant / Business Analyst** candidate.
+**ProcureFlow** is an end-to-end, intermediate-to-advanced Business Analytics and Management Consulting project designed to showcase SQL mastery, data modeling, data quality engineering, root cause analysis, interactive BI dashboarding, and executive business recommendations.
 
 ---
 
